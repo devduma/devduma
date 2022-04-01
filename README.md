@@ -65,7 +65,15 @@ Java |	Lets Code | -
 CSP/COBOL	| - |	Petrobras (vários projetos - 6 anos)
 C++	| - |	Task (4 anos)
 Delphi | - | Task (5 anos)
-Git e Github | Udemy | -	
+Git e Github | Udemy | Projetos pessoais	
 HTML e CSS | Curso em Vídeo / Infnet | -	
 
+#### Outros Cursos
+* Modelagem de Processos com Bizagi – CCE-PUC
+* VBA Excel – CCE-PUC
+* Power BI – CCE-PUC
+* UML - CCE-PUC
+
 ## Idiomas
+* Inglês - Fluente
+* Espanhol - Regular
