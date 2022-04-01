@@ -16,6 +16,7 @@
 [Experiência Profissional](#experiência-profissional) |
 [Formação](#formação) |
 [Linguagens de Programação e Cursos](#linguagens-de-programação--cursos) |
+[Certificações](#certificações) |
 [Idiomas](#idiomas)
 ## Informações Pessoais
 Contato | Informação
@@ -27,17 +28,17 @@ LinkedIn | /in/dumont-neves-3804a217/
 
 ## Experiência Profissional
 #### BR Distribuidora, Rio de Janeiro – Analista de Suporte (concurso)
-**Outubro de 2009 a Julho de 2021**
+_Outubro de 2009 a Julho de 2021_
 * 2 últimos anos atuando na gestão de contratos da gerência de Governança de TI – módulo Material Management do SAP.  Projeto de leitura OCR da nota fiscal eletrônica de serviço através de um robô desenvolvido no software UiPath;
 * 4 anos como Analista de Negócios – elaboração de Business Case para avaliação das demandas de projetos para a TI;
 * 6 anos atuando na gerência de infraestrutura: gestão da equipe de redes e segurança e atuação na gerência de apoio ao usuário (central de atendimento). 
 
 #### Dataprev, Rio de Janeiro— Analista de Produção (concurso)
-**Abril de 2009 a Outubro de 2009**
+_Abril de 2009 a Outubro de 2009_
 * Analista do setor de Liberação, sob a ótica ITIL.  Ação sobre as demandas de mudanças do ambiente produtivo (alta e baixa plataforma). Elaboração de roteiro operacional; acompanhamento das atividades executadas pelas áreas responsáveis; levantamento de servidores para atender demandas; preparação do relatório sobre o serviço executado em produção.
 
 #### Task, Rio de Janeiro — Gerente de desenvolvimento
-**Julho de 1985 a Abril de 2005**
+_Julho de 1985 a Abril de 2005_
 * TASK - Empresa integradora de soluções de controle de acesso físico e controle de ponto;
 * Responsável pelo desenvolvimento do sistema Foracesso – controle de acesso em tempo real (1998 a 2005); 
 * Gerente de Desenvolvimento na Plataforma Mainframe na Petrobras e BR Distribuidora – vários projetos desenvolvidos nas linguagens de programação CSP e COBOL (1992 a 1997);
@@ -48,6 +49,10 @@ LinkedIn | /in/dumont-neves-3804a217/
 #### IAG/PUC —Curso de Financial Analytics 
 * Agosto de 2020 a Junho de 2021 – carga horária: 160 horas
 * Mescla de temas de TI (R, Python, Machine Learning, Blockchain) aplicados em análise financeira (Modelo de Otimização, Análise de Séries Temporais, Criptomoedas, Análise de Carteiras)
+
+### IOT - Curso Ilumno da MIT promovido pela UVA
+* Março/Abril de 2018
+* Carga horária: 80 horas
 
 #### NCE/UFRJ — Pós-graduação/especialização Master of Business Information Technology – MBI
 * Abril de 2006 e Junho de 2007 – Carga horária: 360 horas
@@ -77,6 +82,10 @@ HTML e CSS | Curso em Vídeo / Infnet | -
 * VBA Excel – CCE-PUC
 * Power BI – CCE-PUC
 * UML - CCE-PUC
+
+## Certificações
+* ITIL - v2 e v3 (2008)
+* CISCO CCNA (2007)
 
 ## Idiomas
 * Inglês - Fluente
