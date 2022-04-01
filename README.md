@@ -21,8 +21,6 @@
 ## Informações Pessoais
 Contato | Informação
 ----------- | ---------
-Endereço | Av. Epitácio Pessoa 3100/402 - Rio de Janeiro
-Celular | (21) 99259-6766
 E-mail | dumont.neves@uol.com.br
 LinkedIn | /in/dumont-neves-3804a217/
 
