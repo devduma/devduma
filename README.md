@@ -25,25 +25,38 @@ LinkedIn | /in/dumont-neves-3804a217/
 
 ## Experiência Profissional
 ### BR Distribuidora, Rio de Janeiro – Analista de Suporte (concurso)
-          Outubro de 2009 a Julho de 2021 
+**Outubro de 2009 a Julho de 2021**
 * 2 últimos anos atuando na gestão de contratos da gerência de Governança de TI – módulo Material Management do SAP.  Projeto de leitura OCR da nota fiscal eletrônica de serviço através de um robô desenvolvido no software UiPath;
-*	4 anos como Analista de Negócios – elaboração de Business Case para avaliação das demandas de projetos para a TI;
-*	6 anos atuando na gerência de infraestrutura: gestão da equipe de redes e segurança e atuação na gerência de apoio ao usuário (central de atendimento). 
+* 4 anos como Analista de Negócios – elaboração de Business Case para avaliação das demandas de projetos para a TI;
+* 6 anos atuando na gerência de infraestrutura: gestão da equipe de redes e segurança e atuação na gerência de apoio ao usuário (central de atendimento). 
 
 ### Dataprev, Rio de Janeiro— Analista de Produção (concurso)
-        Abril de 2009 a Outubro de 2009
-*	Analista do setor de Liberação, sob a ótica ITIL.  Ação sobre as demandas de mudanças do ambiente produtivo (alta e baixa plataforma). Elaboração de roteiro operacional; acompanhamento das atividades executadas pelas áreas responsáveis; levantamento de servidores para atender demandas; preparação do relatório sobre o serviço executado em produção.
+**Abril de 2009 a Outubro de 2009**
+* Analista do setor de Liberação, sob a ótica ITIL.  Ação sobre as demandas de mudanças do ambiente produtivo (alta e baixa plataforma). Elaboração de roteiro operacional; acompanhamento das atividades executadas pelas áreas responsáveis; levantamento de servidores para atender demandas; preparação do relatório sobre o serviço executado em produção.
 
 ### Task, Rio de Janeiro — Gerente de desenvolvimento
-      Julho de 1985 a Abril de 2005
-
-*	TASK - Empresa integradora de soluções de controle de acesso físico e controle de ponto;
-*	Responsável pelo desenvolvimento do sistema Foracesso – controle de acesso em tempo real (1998 a 2005); 
-*	Gerente de Desenvolvimento na Plataforma Mainframe na Petrobras e BR Distribuidora – vários projetos desenvolvidos nas linguagens de programação CSP e COBOL (1992 a 1997);
-*	Atuação como gerente e desenvolvedor do sistema Forprint – gerador de relatórios na plataforma C++;
-*	Gerente de Projetos Especiais – Linguagem de programação MUMPS, C++ (1985 a 1991).
+**Julho de 1985 a Abril de 2005**
+* TASK - Empresa integradora de soluções de controle de acesso físico e controle de ponto;
+* Responsável pelo desenvolvimento do sistema Foracesso – controle de acesso em tempo real (1998 a 2005); 
+* Gerente de Desenvolvimento na Plataforma Mainframe na Petrobras e BR Distribuidora – vários projetos desenvolvidos nas linguagens de programação CSP e COBOL (1992 a 1997);
+* Atuação como gerente e desenvolvedor do sistema Forprint – gerador de relatórios na plataforma C++;
+* Gerente de Projetos Especiais – Linguagem de programação MUMPS, C++ (1985 a 1991).
 
 ## Formação
+### IAG/PUC —Curso de Financial Analytics 
+* Agosto de 2020 a Junho de 2021 – carga horária: 160 horas
+* Mescla de temas de TI (R, Python, Machine Learning, Blockchain) aplicados em análise financeira (Modelo de Otimização, Análise de Séries Temporais, Criptomoedas, Análise de Carteiras)
+
+### NCE/UFRJ — Pós-graduação/especialização Master of Business Information Technology – MBI
+* Abril de 2006 e Junho de 2007 – Carga horária: 360 horas
+* Ênfase na gestão empresarial sobre o uso estratégico da TI; Governança, Gerência de Riscos, Empreendedorismo
+
+### IAG/PUC— Pós-graduação em Marketing
+* 1992 – Carga horária: 360 horas
+* Curso de especialização em Marketing.  
+
+### PUC/RJ— Graduação em Engenharia Eletrônica
+* 1978 - 1982
 
 ## Cursos
 
