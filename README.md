@@ -13,9 +13,9 @@
 
 >Desde novembro de 2021, estou em treinamento em Java através de um processo envolvendo as empresas Iguatemi e Lets Code para pessoas com mais de 50 anos.  O curso tem previsão de término em junho 2022 e é realizado às 3as e 5as de 19 às 22h.
 
-[Experiência Profissional](#rede-social) |
-[Formação](#formacao) |
-[Linguagens de Programação e Cursos](#módulos) |
+[Experiência Profissional](#experiência-profissional) |
+[Formação](#formação) |
+[Linguagens de Programação e Cursos](#linguagens-de-programação--cursos) |
 [Idiomas](#idiomas)
 ## Informações Pessoais
 Contato | Informação
