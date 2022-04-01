@@ -1,9 +1,9 @@
 ![Dumont](Imagens\Dumont.jpg)
 # Dumont de Carvalho Neves
 ### Áreas de Interesse (TI)
-- Desenvolvimento (R, Python, Java, HTML, CSP, C++)
-- Analista de Negócios
-- Governança de TI
+- [X] Desenvolvimento (R, Python, Java, HTML, CSP, C++)
+- [X] Analista de Negócios
+- [X] Governança de TI
 
 ## Apresentação
 >Busco oportunidade para participar de projetos em que possa aplicar meus conhecimentos em R e Python (cursos Financial Analytics no IAG da PUC-RJ e Ciência de Dados na Udemy) ou como desenvolvedor Java (curso em andamento na Lets Code).   
