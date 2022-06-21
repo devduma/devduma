@@ -48,7 +48,7 @@ _Julho de 1985 a Abril de 2005_
 * Agosto de 2020 a Junho de 2021 – carga horária: 160 horas
 * Mescla de temas de TI (R, Python, Machine Learning, Blockchain) aplicados em análise financeira (Modelo de Otimização, Análise de Séries Temporais, Criptomoedas, Análise de Carteiras)
 
-### IOT - Curso Ilumno da MIT promovido pela UVA
+### IoT - Curso Ilumno da MIT promovido pela UVA
 * Março/Abril de 2018
 * Carga horária: 80 horas
 
