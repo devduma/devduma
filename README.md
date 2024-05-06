@@ -78,12 +78,15 @@ Linguagem | Curso | Prática
 ----------- | --------- | ---------
 R | Financial Analytics e Udemy | Projetos pessoais
 Python | Financial Analytics e Udemy | Projetos pessoais
-Java |	Lets Code | -
+Java |	Lets Code | Exercícios Curso
+Rest API | Udemy, Lets Code | Exercícios Curso
 CSP/COBOL	| - |	Petrobras (vários projetos - 6 anos)
 C++	| - |	Task (4 anos)
 Delphi | - | Task (5 anos)
 Git e Github | Udemy | Projetos pessoais	
 HTML e CSS | Curso em Vídeo / Infnet | -	
+Javascript | Curso em Vídeo / Infnet | -
+Spark, Hadoop | IGTI | -
 
 #### Outros Cursos
 * Modelagem de Processos com Bizagi – CCE-PUC
