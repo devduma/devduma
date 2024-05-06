@@ -1,17 +1,20 @@
 # Dumont de Carvalho Neves
+_Rio de Janeiro_
 ### Áreas de Interesse (TI)
 - [X] Desenvolvimento (R, Python, Java, HTML, CSP, C++, Delphi)
 - [X] Analista de Negócios
 - [X] Governança de TI (ITIL, ServiceNow)
 
 ## Apresentação
->Busco oportunidade para participar de projetos em que possa aplicar meus conhecimentos em R e Python (cursos Financial Analytics no IAG da PUC-RJ e Ciência de Dados na Udemy) ou como desenvolvedor Java (curso full stack na Lets Code).   
+>Busco oportunidade para participar de projetos como cientista de dados em que possa aplicar meus conhecimentos de Python, R e Machine Learning.
+
+>Realizei uma pós-graduação de Ciência de Dados e Arquiteto de Big Data no IGTI, baseada em bootcamps com módulos sobre Spark, Haddop, Machine Learning, MongoDB e Dashboards.
 
 >Trabalhei 12 anos na BR Distribuidora dos quais 4 anos foram como Analista de Negócios da diretoria de Logística e Operação. Essa atividade também me interessa, visando conciliar meus conhecimentos em TI com a área de negócios. 
 
->Na própria BR, atuei por 2 anos na gerência de Governança de TI e um dos focos era o controle CAPEX / OPEX, gestão de contratos, custos e investimentos, utilizando o módulo MM (Material Management) do SAP.
+>Além de conhecimentos de várias linguagens de programação, tenho certificação na plataforma ServiceNow (CSA, janeiro/2023), ITIL e atuação profissional em Governança de TI.
 
->Desde novembro de 2021, fui selecionado entre candidatos 50+ para realizar um treinamento full stack em Java através de um processo envolvendo as empresas Iguatemi e Lets Code.  
+>Em 2021 fui selecionado entre candidatos 50+ para realizar um treinamento full stack em Java através de um processo envolvendo as empresas Iguatemi e Lets Code.  
 
 [Experiência Profissional](#experiência-profissional) |
 [Formação](#formação) |
@@ -44,7 +47,14 @@ _Julho de 1985 a Abril de 2005_
 * Gerente de Projetos Especiais – Linguagem de programação MUMPS, C++ (1985 a 1991).
 
 ## Formação
-#### IAG/PUC —Curso de Financial Analytics 
+#### XP/IGTI - Pós-Graduação em Ciência de Dados e Arquitetura de Big Data
+- Maio de 2023 a Fevereiro de 2024 -144 horas
+- Desenvolvimento de soluções utilizando Python, R e Spark
+- Técnicas de Análise de Dados (Amazon Kinesis, Spark, GraphX, MLLib, Neo4j), Teoria dos Grafos
+- Elaboração de Dashboards
+- Projeto Final: Aplicação de Machine Learning para montar uma carteira de ações
+  
+#### IAG/PUC - Curso de Financial Analytics 
 * Agosto de 2020 a Junho de 2021 – carga horária: 160 horas
 * Mescla de temas de TI (R, Python, Machine Learning, Blockchain) aplicados em análise financeira (Modelo de Otimização, Análise de Séries Temporais, Criptomoedas, Análise de Carteiras)
 
@@ -82,6 +92,7 @@ HTML e CSS | Curso em Vídeo / Infnet | -
 * UML - CCE-PUC
 
 ## Certificações
+* ServiceNow (CSA - Janeiro 2023)
 * ITIL - v2 e v3 (2008)
 * CISCO CCNA (2007)
 
