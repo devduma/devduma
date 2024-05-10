@@ -21,11 +21,12 @@ _Rio de Janeiro_
 [Linguagens de Programação e Cursos](#linguagens-de-programação--cursos) |
 [Certificações](#certificações) |
 [Idiomas](#idiomas)
-## Informações Pessoais
-Contato | Informação
------------ | ---------
-E-mail | dumont.neves@uol.com.br
-LinkedIn | /in/dumont-neves/
+## Conecte-se comigo
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:dumont.neves@uol.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dumont-neves/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/devduma)
+
 
 ## Experiência Profissional
 #### BR Distribuidora, Rio de Janeiro – Analista de Suporte (concurso)
