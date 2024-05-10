@@ -8,9 +8,9 @@ _Rio de Janeiro_
 ## Apresentação
 >Busco oportunidade para participar de projetos como cientista de dados em que possa aplicar meus conhecimentos de Python, R e Machine Learning.
 
->Realizei uma pós-graduação de Ciência de Dados e Arquiteto de Big Data no IGTI, baseada em bootcamps com módulos sobre Spark, Haddop, Machine Learning, MongoDB e Dashboards.
+>Realizei uma pós-graduação de Ciência de Dados e Arquiteto de Big Data no IGTI/XPE, baseada em bootcamps com módulos sobre Spark, Haddop, Machine Learning, MongoDB e Dashboards.
 
->Trabalhei 12 anos na BR Distribuidora dos quais 4 anos foram como Analista de Negócios da diretoria de Logística e Operação. Essa atividade também me interessa, visando conciliar meus conhecimentos em TI com a área de negócios. 
+>Trabalhei 12 anos na BR Distribuidora dos quais 4 anos foram como Analista de Negócios da diretoria de Logística e Operação.  
 
 >Além de conhecimentos de várias linguagens de programação, tenho certificação na plataforma ServiceNow (CSA, janeiro/2023), ITIL e atuação profissional em Governança de TI.
 
